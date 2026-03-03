@@ -117,7 +117,7 @@ export default function LandingPage() {
               title: "Performance Optimized",              description: "Fast loading times, smooth interactions, and professional branding create trust. Your site performs on all devices.",              icon: Rocket
             },
             {
-              title: "Support & Growth",              description: "We don't disappear after launch. Ongoing support, analytics tracking, and optimization keep your site performing at peak efficiency.",              icon: Headset
+              title: "",              description: "",              icon: Headset
             }
           ]}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/an-upward-trending-graph-or-chart-showin-1772544654427-76dfd862.png"
