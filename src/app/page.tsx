@@ -90,10 +90,6 @@ export default function LandingPage() {
             {
               id: "3",              title: "Lead Generation & Calls",              tags: ["Conversions", "Contact Forms"],
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/a-professional-phone-screen-showing-inco-1772544654712-c0330c10.png",              imageAlt: "Phone showing incoming calls and leads"
-            },
-            {
-              id: "4",              title: "Professional Branding",              tags: ["Brand Identity", "Consistency"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/a-collection-of-professional-branding-ma-1772544655899-102e157c.png",              imageAlt: "Professional branding materials collection"
             }
           ]}
           animationType="slide-up"
