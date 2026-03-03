@@ -133,9 +133,9 @@ export default function LandingPage() {
           rating={5}
           author="Sarah Johnson, Business Owner"
           avatars={[
-            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/professional-headshot-of-a-confident-bus-1772544655495-746b2601.png", alt: "Sarah Johnson" },
-            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/professional-headshot-of-a-business-owne-1772544653625-e95c5104.png", alt: "Client" },
-            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/professional-headshot-of-a-female-busine-1772544653577-1744740c.png", alt: "Client" },
+            { src: "http://img.b2bpic.net/free-photo/business-people-sitting-office-desk-working-project_1098-17930.jpg?id=5633427", alt: "Sarah Johnson" },
+            { src: "http://img.b2bpic.net/free-photo/group-people-working-out-business-plan-office_1303-15871.jpg?id=5495115", alt: "Client" },
+            { src: "http://img.b2bpic.net/premium-photo/two-information-technology-specialist-brainstorming-project-create-new-approach-develop-software-improve-business-service-working-with-laptop-tech-hologram-icons-formal-wear_269648-2178.jpg?id=29517652", alt: "Client" },
             { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/professional-headshot-of-a-business-owne-1772544655388-62ca05e5.png", alt: "Client" }
           ]}
           ratingAnimation="slide-up"
