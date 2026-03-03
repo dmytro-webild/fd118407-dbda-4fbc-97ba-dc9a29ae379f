@@ -54,7 +54,7 @@ export default function LandingPage() {
             { text: "See Our Work", href: "#services" }
           ]}
           buttonAnimation="slide-up"
-          background={{ variant: "circleGradient" }}
+          background={{ variant: "animated-grid" }}
           carouselItems={[
             { id: "carousel-1", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/a-computer-monitor-showing-a-high-conver-1772544654531-ccc3e9c0.png", imageAlt: "High-converting landing page design" },
             { id: "carousel-2", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/a-mobile-phone-and-desktop-showing-respo-1772544654252-55878f62.png", imageAlt: "Responsive web design on multiple devices" },
