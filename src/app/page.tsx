@@ -28,7 +28,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
-          brandName="Proof Digital"
+          brandName=""
           navItems={[
             { name: "Services", id: "services" },
             { name: "Results", id: "results" },
@@ -65,7 +65,7 @@ export default function LandingPage() {
           ]}
           autoPlay={true}
           autoPlayInterval={4000}
-          ariaLabel="Proof Digital - Web Design Services Showcase"
+          ariaLabel=" - Web Design Services Showcase"
         />
       </div>
 
@@ -97,13 +97,13 @@ export default function LandingPage() {
             }
           ]}
           animationType="slide-up"
-          ariaLabel="Proof Digital Services Features"
+          ariaLabel=" Services Features"
         />
       </div>
 
       <div id="services" data-section="services">
         <SplitAbout
-          title="Why Businesses Choose Proof Digital"
+          title="Why Businesses Choose "
           description="We combine strategic design with proven digital marketing tactics to deliver real results. Your website isn't just beautiful—it's built to sell."
           tag="Our Approach"
           tagIcon={Target}
@@ -127,13 +127,13 @@ export default function LandingPage() {
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/an-upward-trending-graph-or-chart-showin-1772544654427-76dfd862.png"
           imagePosition="right"
           mediaAnimation="slide-up"
-          ariaLabel="Why Choose Proof Digital"
+          ariaLabel="Why Choose "
         />
       </div>
 
       <div id="testimonials" data-section="testimonials">
         <TestimonialCardFifteen
-          testimonial="Proof Digital transformed our online presence completely. Our website now ranks on the first page of Google for our target keywords, and we're receiving qualified leads consistently. The design is professional, and the conversion rate has exceeded our expectations. Highly recommended!"
+          testimonial=" transformed our online presence completely. Our website now ranks on the first page of Google for our target keywords, and we're receiving qualified leads consistently. The design is professional, and the conversion rate has exceeded our expectations. Highly recommended!"
           rating={5}
           author="Sarah Johnson, Business Owner"
           avatars={[
@@ -173,7 +173,7 @@ export default function LandingPage() {
               id: "4",              title: "Client Retention Rate",              subtitle: "Ongoing partnerships",              category: "Satisfaction",              value: "98%"
             }
           ]}
-          ariaLabel="Proof Digital Results Metrics"
+          ariaLabel=" Results Metrics"
         />
       </div>
 
@@ -205,7 +205,7 @@ export default function LandingPage() {
               id: "6",              title: "How do you measure success?",              content: "We track metrics that matter: website traffic, Google rankings, qualified leads, and conversion rates. You'll receive regular reports showing exactly how your website is performing and the return on your investment."
             }
           ]}
-          ariaLabel="Proof Digital FAQ"
+          ariaLabel=" FAQ"
         />
       </div>
 
@@ -228,7 +228,7 @@ export default function LandingPage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AR9aAPktpzNgpwQzaATrrkzp4d/a-professional-contact-form-interface-sh-1772544654955-92360fe1.png"
-          ariaLabel="Contact Proof Digital"
+          ariaLabel="Contact "
         />
       </div>
 
@@ -267,7 +267,7 @@ export default function LandingPage() {
               ]
             }
           ]}
-          bottomLeftText="© 2025 Proof Digital. All rights reserved."
+          bottomLeftText="© 2025 . All rights reserved."
           bottomRightText="Professional Web Design & Digital Marketing"
           ariaLabel="Site footer"
         />
