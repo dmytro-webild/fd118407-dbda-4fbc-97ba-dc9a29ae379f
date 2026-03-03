@@ -45,7 +45,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroBillboardRotatedCarousel
           title="Attract More Clients, Rank on Google, Get More Calls"
-          description="Professional web design that converts visitors into customers. We build websites that look beautiful, show up in Google search results, and generate qualified leads for your business."
+          description="Professional web design that converts visitors into customers. We build websites that look professional, show up in Google search results, and generate qualified leads for your business."
           tag="Web Design & Digital Marketing"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
